@@ -1,0 +1,102 @@
+*{
+margin: 0;
+padding: 0;
+padding: 0;
+outline: 0;
+}
+
+/* <!-- header area here --> */
+
+.header{
+background-color: darkslategray;
+display: flex;
+align-items: center;
+justify-content: space-between;
+/* padding: 0px 80px; */
+color: white;
+}
+
+.image{
+width: 40px;
+
+
+}
+
+.ali{
+display: flex;
+align-items: center;
+gap: 5px;
+
+}
+
+.text{
+    display: flex;
+text-decoration: none;
+list-style: none;
+gap: 10px;
+/* padding: 0px 100px; */
+font-size: 14px;
+}
+
+.text > li:hover{
+cursor: pointer;
+background-color: orange;
+padding: 0px 10px;
+
+
+}
+
+.text > li{
+/* background-color: orange; */
+border-radius: 4px;
+
+}
+
+.header1{
+padding: 0px 100px;
+
+
+}
+
+.cyber{
+color: orange;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
